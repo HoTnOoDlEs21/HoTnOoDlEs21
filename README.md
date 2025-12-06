@@ -23,7 +23,7 @@ Durante 3 meses de estágio na Inovcorp, desenvolvi 4 sistemas web completos de 
 #### 📚 **1. Sistema de Gestão de Biblioteca**
 
 _Projeto inicial - CRUD avançado com integração externa_  
-🔗 **[Ver Repositório](https://github.com/HoTnOoDlEs21/biblioteca)**
+🔗 **[Ver Repositório](https://github.com/JoseGoncalvesWeb/biblioteca)**
 
 Sistema completo de gestão bibliotecária desenvolvido com **Laravel 11 + Livewire**
 
@@ -39,7 +39,7 @@ Sistema completo de gestão bibliotecária desenvolvido com **Laravel 11 + Livew
 #### 💬 **2. Chat App - Sistema de Comunicação em Tempo Real**
 
 _Projeto intermediário - WebSockets e comunicação assíncrona_  
-🔗 **[Ver Repositório](https://github.com/HoTnOoDlEs21/chat-app)**
+🔗 **[Ver Repositório](https://github.com/JoseGoncalvesWeb/chat-app)**
 
 Aplicação empresarial de chat inspirada no **Campfire** da Once
 
@@ -54,7 +54,7 @@ Aplicação empresarial de chat inspirada no **Campfire** da Once
 #### ✅ **3. To-Do App - Gestão Moderna de Tarefas**
 
 _Projeto avançado - SPA com Vue.js 3 e Inertia.js_  
-🔗 **[Ver Repositório](https://github.com/HoTnOoDlEs21/todo-app)**
+🔗 **[Ver Repositório](https://github.com/JoseGoncalvesWeb/todo-app)**
 
 Aplicação moderna de gestão de tarefas que evoluiu de Blade para **SPA completa**
 
@@ -71,7 +71,7 @@ Aplicação moderna de gestão de tarefas que evoluiu de Blade para **SPA comple
 #### 🏢 **4. Gest-App - Sistema de Gestão Empresarial** _(Projeto Final)_
 
 _Projeto final de estágio - Sistema ERP completo para PMEs_  
-🔗 **[Ver Repositório](https://github.com/HoTnOoDlEs21/gest-app)**
+🔗 **[Ver Repositório](https://github.com/JoseGoncalvesWeb/gest-app)**
 
 Sistema empresarial completo desenvolvido em **18 dias** (6-18 Nov 2025)
 
@@ -93,7 +93,7 @@ Sistema empresarial completo desenvolvido em **18 dias** (6-18 Nov 2025)
 
 ## 🎓 Formação Académica
 
-### Curso de Design e Programação Web | **Colégio da Areosa** (2024-2025)
+### Curso de Design e Programação Web | **MasterD** (2024-2025)
 
 Projeto Final: Website completo com sistema de autenticação, gestão de conteúdos e área administrativa
 
@@ -137,7 +137,7 @@ Website portfolio com design japonês minimalista
 -   SEO otimizado com Schema.org
 -   **Stack:** PHP, Vue.js, MySQL, PHPMailer
 
-### 🌿 [Centro Terapêutico Trevo](https://github.com/HoTnOoDlEs21/Trevo) _(Em Desenvolvimento)_
+### 🌿 [Centro Terapêutico Trevo](https://github.com/JoseGoncalvesWeb/Trevo) _(Em Desenvolvimento)_
 
 Website para centro de terapias complementares
 
