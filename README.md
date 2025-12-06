@@ -16,42 +16,74 @@ Mais do que design, ofereço **presença**. Crio espaços visuais que respeitam 
 
 ## 🚀 Experiência Profissional
 
-### Estágio em Desenvolvimento Web | **Inovcorp** (2025)
+### Estágio em Desenvolvimento Web | **Inovcorp** (Setembro - Novembro 2025)
 
-Durante o estágio na Inovcorp, desenvolvi sistemas web completos com foco em performance, segurança e experiência do utilizador:
+Durante 3 meses de estágio na Inovcorp, desenvolvi 4 sistemas web completos de crescente complexidade, aplicando boas práticas de desenvolvimento, segurança e arquitetura moderna:
 
-#### 📚 **Sistema de Gestão de Biblioteca**
+#### 📚 **1. Sistema de Gestão de Biblioteca**
 
-Sistema completo de gestão desenvolvido com **Laravel 11** e **Livewire**
+_Projeto inicial - CRUD avançado com integração externa_
 
--   Gestão de catálogo, requisições, encomendas e stock
--   Integração com **Google Books API** para pesquisa automatizada
--   Sistema de reviews e moderação
--   Autenticação segura com **2FA via Google Authenticator**
--   Dashboard administrativo e interface para cidadãos
+Sistema completo de gestão bibliotecária desenvolvido com **Laravel 11 + Livewire**
+
+-   **CRUD completo** de livros, autores e editoras com validações robustas
+-   Integração com **Google Books API** para preenchimento automático
+-   **Autenticação 2FA** via Google Authenticator com códigos de recuperação
+-   Sistema de **requisições e encomendas** com controlo de stock
+-   **Export para Excel** de catálogos e relatórios
+-   Cifragem de dados sensíveis (RGPD)
+-   Interface moderna com **DaisyUI**
 -   **Stack:** Laravel 11, Livewire, Jetstream, Tailwind CSS, DaisyUI, MySQL
 
-#### 💬 **Chat App - Sistema de Comunicação em Tempo Real**
+#### 💬 **2. Chat App - Sistema de Comunicação em Tempo Real**
 
-Aplicação empresarial de chat inspirada no Campfire
+_Projeto intermediário - WebSockets e comunicação assíncrona_
 
--   Comunicação em tempo real com **WebSockets** e **Pusher**
--   Salas públicas e mensagens diretas (DM)
--   Sistema de notificações com badges em tempo real
--   Gestão completa de membros e permissões
--   Histórico de mensagens persistente
+Aplicação empresarial de chat inspirada no **Campfire** da Once
+
+-   Comunicação em **tempo real** com **WebSockets + Pusher**
+-   **Salas de chat** públicas com gestão de membros
+-   **Mensagens diretas (DM)** privadas entre utilizadores
+-   Sistema de **notificações com badges** em tempo real
+-   Controlo de acesso baseado em **roles** (Admin/User)
+-   Interface minimalista e intuitiva com Tailwind CSS
 -   **Stack:** Laravel 11, Breeze, WebSockets, Pusher, Tailwind CSS, MySQL
 
-#### 🏢 **Kaizen - Website Corporativo**
+#### ✅ **3. To-Do App - Gestão Moderna de Tarefas**
 
-Website institucional para empresa de arquitetura e construção
+_Projeto avançado - SPA com Vue.js 3 e Inertia.js_
 
--   Design moderno e responsivo
--   Gestão de portfólio de projetos
--   Sistema de agendamentos de reuniões
--   Dashboard para clientes e administradores
--   Gestão de comunicados e notícias
--   **Stack:** HTML, CSS, JavaScript, PHP, MySQL
+Aplicação moderna de gestão de tarefas que evoluiu de Blade para **SPA completa**
+
+-   **Single Page Application** com **Vue.js 3 + Inertia.js**
+-   **Dashboard analítico** com métricas em tempo real
+-   Sistema de **soft deletes** com lixeira e recuperação
+-   **Filtros dinâmicos** inteligentes (estado, prioridade, prazo)
+-   Sistema de **prioridades** com códigos visuais
+-   **Modo escuro/claro** adaptativo
+-   Toggle **Hoje/Esta Semana** no dashboard
+-   Duplicação rápida de tarefas
+-   **Stack:** Laravel 12, Vue.js 3, Inertia.js, Tailwind CSS, MySQL
+
+#### 🏢 **4. Gest-App - Sistema de Gestão Empresarial** _(Projeto Final)_
+
+_Projeto final de estágio - Sistema ERP completo para PMEs_
+
+Sistema empresarial completo desenvolvido em **18 dias** (6-18 Nov 2025)
+
+-   **20 módulos integrados**: Clientes, Fornecedores, Produtos, Encomendas, Financeiro, RH, CRM
+-   **Sistema de permissões granular** com Spatie Laravel Permission
+-   **Cifra AES-256-CBC** de 13 campos sensíveis (RGPD)
+-   **Integração financeira automática** (Encomendas → Conta Corrente + Banco)
+-   **Gestão automática de stock** sincronizada com vendas
+-   **Arquivo digital seguro** com autenticação
+-   **Dashboard adaptativo** baseado em permissões do utilizador
+-   Calendário integrado com **FullCalendar**
+-   **Export PDF** de extratos e relatórios
+-   **Dark mode** completo em toda aplicação
+-   Interface consistente com **Shadcn/ui**
+-   Histórico de atividades (logs) detalhado
+-   **Stack:** Laravel 12, Vue.js 3, Inertia.js, Tailwind CSS, Shadcn/ui, MySQL, Spatie Permissions
 
 ---
 
@@ -131,6 +163,7 @@ Website para centro de terapias complementares
 <div align="center">
   <i>✨ "No Ikigai Studio, cada projeto é uma extensão do teu propósito — algo que te represente, te inspire e te faça sentir em casa." ✨</i>
 </div>
+
 
 <!---
 HoTnOoDlEs21/HoTnOoDlEs21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
