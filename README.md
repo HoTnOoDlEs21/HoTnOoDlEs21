@@ -22,7 +22,8 @@ Durante 3 meses de estágio na Inovcorp, desenvolvi 4 sistemas web completos de 
 
 #### 📚 **1. Sistema de Gestão de Biblioteca**
 
-_Projeto inicial - CRUD avançado com integração externa_
+_Projeto inicial - CRUD avançado com integração externa_  
+🔗 **[Ver Repositório](https://github.com/HoTnOoDlEs21/biblioteca)**
 
 Sistema completo de gestão bibliotecária desenvolvido com **Laravel 11 + Livewire**
 
@@ -37,7 +38,8 @@ Sistema completo de gestão bibliotecária desenvolvido com **Laravel 11 + Livew
 
 #### 💬 **2. Chat App - Sistema de Comunicação em Tempo Real**
 
-_Projeto intermediário - WebSockets e comunicação assíncrona_
+_Projeto intermediário - WebSockets e comunicação assíncrona_  
+🔗 **[Ver Repositório](https://github.com/HoTnOoDlEs21/chat-app)**
 
 Aplicação empresarial de chat inspirada no **Campfire** da Once
 
@@ -51,7 +53,8 @@ Aplicação empresarial de chat inspirada no **Campfire** da Once
 
 #### ✅ **3. To-Do App - Gestão Moderna de Tarefas**
 
-_Projeto avançado - SPA com Vue.js 3 e Inertia.js_
+_Projeto avançado - SPA com Vue.js 3 e Inertia.js_  
+🔗 **[Ver Repositório](https://github.com/HoTnOoDlEs21/todo-app)**
 
 Aplicação moderna de gestão de tarefas que evoluiu de Blade para **SPA completa**
 
@@ -67,7 +70,8 @@ Aplicação moderna de gestão de tarefas que evoluiu de Blade para **SPA comple
 
 #### 🏢 **4. Gest-App - Sistema de Gestão Empresarial** _(Projeto Final)_
 
-_Projeto final de estágio - Sistema ERP completo para PMEs_
+_Projeto final de estágio - Sistema ERP completo para PMEs_  
+🔗 **[Ver Repositório](https://github.com/HoTnOoDlEs21/gest-app)**
 
 Sistema empresarial completo desenvolvido em **18 dias** (6-18 Nov 2025)
 
@@ -163,6 +167,7 @@ Website para centro de terapias complementares
 <div align="center">
   <i>✨ "No Ikigai Studio, cada projeto é uma extensão do teu propósito — algo que te represente, te inspire e te faça sentir em casa." ✨</i>
 </div>
+
 
 
 <!---
