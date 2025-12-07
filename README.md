@@ -16,7 +16,7 @@ Mais do que design, ofereço **presença**. Crio espaços visuais que respeitam 
 
 ## 🚀 Experiência Profissional
 
-### Estágio em Desenvolvimento Web | **Inovcorp** (Setembro - Novembro 2025)
+### Estágio em Desenvolvimento Web | **Inovcorp** (Agosto - Novembro 2025)
 
 Durante 3 meses de estágio na Inovcorp, desenvolvi 4 sistemas web completos de crescente complexidade, aplicando boas práticas de desenvolvimento, segurança e arquitetura moderna:
 
